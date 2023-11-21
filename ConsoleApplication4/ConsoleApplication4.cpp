@@ -7,8 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
+     std::cout << "程泽钦\n";
 
 }
 
